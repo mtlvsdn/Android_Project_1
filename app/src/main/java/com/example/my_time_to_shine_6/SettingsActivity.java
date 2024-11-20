@@ -39,7 +39,6 @@ public class SettingsActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Settings settings = createSetting();
-
             }
         });
     }
