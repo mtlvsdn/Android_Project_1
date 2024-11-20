@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My_time_to_shine_6</string>
+    <string name="item_1">You selected Item 1</string>
+    <string name="item_2">You selected Item 2</string>
+    <string name="about">You selected About</string>
+    <string-array name="settingsSpinner">
+        <item>Bucharest</item>
+        <item>Cluj</item>
+        <item>Timisoara</item>
+        <item>Brasov</item>
+        <item>Arad</item>
+        <item>Craiova</item>
+        <item>Constanta</item>
+    </string-array>
+</resources>
