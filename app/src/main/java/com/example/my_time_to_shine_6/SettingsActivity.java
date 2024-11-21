@@ -41,6 +41,7 @@ public class SettingsActivity extends AppCompatActivity {
                 Settings settings = createSetting();
             }
         });
+
     }
 
     private Settings createSetting() {
